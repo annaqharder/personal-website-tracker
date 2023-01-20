@@ -1,0 +1,2 @@
+class SavedGiftsController < ApplicationController
+end
